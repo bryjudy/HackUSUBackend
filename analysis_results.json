@@ -1,0 +1,332 @@
+{
+    "sentiment_counts": {
+        "positive": 21,
+        "neutral": 3,
+        "negative": 16
+    },
+    "plot_data": {
+        "sentiment_distribution": [
+            {
+                "hourly_bins": "0-1",
+                "is_positive": 6,
+                "is_neutral": 0,
+                "is_negative": 2
+            },
+            {
+                "hourly_bins": "2-3",
+                "is_positive": 0,
+                "is_neutral": 0,
+                "is_negative": 1
+            },
+            {
+                "hourly_bins": "3-4",
+                "is_positive": 0,
+                "is_neutral": 0,
+                "is_negative": 2
+            },
+            {
+                "hourly_bins": "4-5",
+                "is_positive": 0,
+                "is_neutral": 0,
+                "is_negative": 2
+            },
+            {
+                "hourly_bins": "5-6",
+                "is_positive": 1,
+                "is_neutral": 0,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "7-8",
+                "is_positive": 0,
+                "is_neutral": 0,
+                "is_negative": 1
+            },
+            {
+                "hourly_bins": "10-11",
+                "is_positive": 1,
+                "is_neutral": 0,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "12-13",
+                "is_positive": 1,
+                "is_neutral": 1,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "13-14",
+                "is_positive": 1,
+                "is_neutral": 0,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "15-16",
+                "is_positive": 2,
+                "is_neutral": 0,
+                "is_negative": 1
+            },
+            {
+                "hourly_bins": "18-19",
+                "is_positive": 0,
+                "is_neutral": 0,
+                "is_negative": 1
+            },
+            {
+                "hourly_bins": "19-20",
+                "is_positive": 1,
+                "is_neutral": 0,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "21-22",
+                "is_positive": 0,
+                "is_neutral": 1,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "23-24",
+                "is_positive": 0,
+                "is_neutral": 1,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "24-25",
+                "is_positive": 1,
+                "is_neutral": 0,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "26-27",
+                "is_positive": 1,
+                "is_neutral": 0,
+                "is_negative": 2
+            },
+            {
+                "hourly_bins": "29-30",
+                "is_positive": 1,
+                "is_neutral": 0,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "30-31",
+                "is_positive": 1,
+                "is_neutral": 0,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "31-32",
+                "is_positive": 0,
+                "is_neutral": 0,
+                "is_negative": 1
+            },
+            {
+                "hourly_bins": "36-37",
+                "is_positive": 2,
+                "is_neutral": 0,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "38-39",
+                "is_positive": 1,
+                "is_neutral": 0,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "40-41",
+                "is_positive": 0,
+                "is_neutral": 0,
+                "is_negative": 1
+            },
+            {
+                "hourly_bins": "43-44",
+                "is_positive": 0,
+                "is_neutral": 0,
+                "is_negative": 1
+            },
+            {
+                "hourly_bins": "44-45",
+                "is_positive": 1,
+                "is_neutral": 0,
+                "is_negative": 0
+            },
+            {
+                "hourly_bins": "47-48",
+                "is_positive": 0,
+                "is_neutral": 0,
+                "is_negative": 1
+            }
+        ],
+        "total_responses_per_bin": [
+            {
+                "hourly_bins": "0-1",
+                "total_responses": 8
+            },
+            {
+                "hourly_bins": "2-3",
+                "total_responses": 9
+            },
+            {
+                "hourly_bins": "3-4",
+                "total_responses": 11
+            },
+            {
+                "hourly_bins": "4-5",
+                "total_responses": 13
+            },
+            {
+                "hourly_bins": "5-6",
+                "total_responses": 14
+            },
+            {
+                "hourly_bins": "7-8",
+                "total_responses": 15
+            },
+            {
+                "hourly_bins": "10-11",
+                "total_responses": 16
+            },
+            {
+                "hourly_bins": "12-13",
+                "total_responses": 18
+            },
+            {
+                "hourly_bins": "13-14",
+                "total_responses": 19
+            },
+            {
+                "hourly_bins": "15-16",
+                "total_responses": 22
+            },
+            {
+                "hourly_bins": "18-19",
+                "total_responses": 23
+            },
+            {
+                "hourly_bins": "19-20",
+                "total_responses": 24
+            },
+            {
+                "hourly_bins": "21-22",
+                "total_responses": 25
+            },
+            {
+                "hourly_bins": "23-24",
+                "total_responses": 26
+            },
+            {
+                "hourly_bins": "24-25",
+                "total_responses": 27
+            },
+            {
+                "hourly_bins": "26-27",
+                "total_responses": 30
+            },
+            {
+                "hourly_bins": "29-30",
+                "total_responses": 31
+            },
+            {
+                "hourly_bins": "30-31",
+                "total_responses": 32
+            },
+            {
+                "hourly_bins": "31-32",
+                "total_responses": 33
+            },
+            {
+                "hourly_bins": "36-37",
+                "total_responses": 35
+            },
+            {
+                "hourly_bins": "38-39",
+                "total_responses": 36
+            },
+            {
+                "hourly_bins": "40-41",
+                "total_responses": 37
+            },
+            {
+                "hourly_bins": "43-44",
+                "total_responses": 38
+            },
+            {
+                "hourly_bins": "44-45",
+                "total_responses": 39
+            },
+            {
+                "hourly_bins": "47-48",
+                "total_responses": 40
+            }
+        ]
+    },
+    "top_5_tags": {
+        "positive": [
+            [
+                "depth",
+                14
+            ],
+            [
+                "discussion",
+                14
+            ],
+            [
+                "considerations",
+                14
+            ],
+            [
+                "law",
+                14
+            ],
+            [
+                "examples",
+                14
+            ]
+        ],
+        "neutral": [
+            [
+                "refresher",
+                3
+            ],
+            [
+                "basics",
+                3
+            ],
+            [
+                "future",
+                3
+            ],
+            [
+                "sessions",
+                3
+            ]
+        ],
+        "negative": [
+            [
+                "think",
+                13
+            ],
+            [
+                "lecture",
+                13
+            ],
+            [
+                "structure",
+                13
+            ],
+            [
+                "examples",
+                13
+            ],
+            [
+                "points",
+                13
+            ]
+        ]
+    },
+    "highlight_reviews": {
+        "positive": "I really appreciated the depth of discussion around ethical considerations in law the practical examples made the theory much more accessible.",
+        "neutral": "I found the lecture to be a good refresher on some of the basics but im looking forward to more engaging content in future sessions.",
+        "negative": "I think the lecture could benefit from a clearer structure and more relatable examples it was hard to follow the main points at times."
+    }
+}
